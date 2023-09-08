@@ -1,7 +1,1 @@
-# MURAML..
-####
-
-Hi there!
-DM for president
- 
-Ty Eva Ro
+## MuraMed: A Revolution in Medical Diagnostics
