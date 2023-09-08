@@ -10,14 +10,14 @@ However, **MuraMed**'s expertise extends beyond bone abnormality detection; it a
 The **versatility** of MuraMed's technological platform is another key feature. The application is designed not only to meet the needs of experienced medical professionals but also to extend its benefits to a wider audience, including athletes, teachers, and physiotherapists. These individuals can use this platform for early detection and intervention of musculoskeletal issues. This inclusive approach democratizes diagnostic capabilities, making proactive healthcare more accessible. Through this multifaceted approach, **MuraMed** is set to make a lasting impact across various sectors, from specialized medicine to community healthcare and beyond.
 
 
-
+<br>
 <div style="text-align: center;">
   <figure>
     <img src="./Figures/muramed_logo.png" alt="MuraMed Logo" style="width:35%">
     <figcaption>MuraMed: A Revolution in Medical Diagnostics</figcaption>
   </figure>
 </div>
-
+<br>
 
 When it comes to **MuraMed**'s long-term goals, the company's **Mission and Vision** serve as guiding principles. The company is not solely focused on providing AI-powered diagnostic solutions; it has a broader vision of impacting global healthcare. Specifically, MuraMed aims to ensure that quality healthcare is available to areas facing a severe shortage of skilled radiologists. This vision is not restricted to large healthcare facilities but extends to smaller clinics and even beyond the boundaries of the traditional healthcare industry. By integrating advanced AI algorithms with a specialized focus on bone abnormalities and a versatile application range, MuraMed aims to revolutionize medical diagnostics in an unprecedented manner. Through these initiatives, the company is set to bring about monumental changes that will redefine the landscape of healthcare, making quality diagnostic services accessible and affordable to all.
 
