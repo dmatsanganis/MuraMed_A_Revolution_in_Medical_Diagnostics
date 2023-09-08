@@ -1,5 +1,4 @@
 ## MuraMed: A Revolution in Medical Diagnostics
----
 
 **MuraMed** is an innovative healthcare technology company that aims to revolutionize medical diagnostics with a focus on radiographs (X-Ray images). In the intricate landscape of today's healthcare, the company addresses the vital need for accurate, efficient, and swift diagnosis. MuraMed's specialization lies in detecting bone abnormalities, and it offers an AI-powered diagnostic system tailored for healthcare professionals. This initiative is particularly significant for radiology, a field often challenged by the timeliness and precision of X-ray image interpretation. A brief description of our **MuraMed's Business Case** follows below.
 
