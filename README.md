@@ -14,6 +14,7 @@ The **versatility** of MuraMed's technological platform is another key feature. 
 <div style="text-align: center;">
   <figure>
     <img src="./Figures/muramed_logo.png" alt="MuraMed Logo" style="width:35%">
+    <br>
     <figcaption>MuraMed: A Revolution in Medical Diagnostics</figcaption>
   </figure>
 </div>
