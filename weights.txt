@@ -1,0 +1,7 @@
+Link to the checkpoints folder (Simple CNN Model):
+https://drive.google.com/drive/folders/1b_UcwpEHz97HPT_BtKtE8l0KXQT4Hete?usp=share_link
+
+
+Link to the checkpoints folder (Advanced CNN Model):
+https://drive.google.com/drive/folders/1OETkFWKGLuwSJbCZEW56vNkeuEPlV6PN?usp=share_link
+
