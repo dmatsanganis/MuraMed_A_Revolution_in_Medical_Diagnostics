@@ -25,8 +25,84 @@ Similarly, the inherent **Value of MuraMed's Research** cannot be overstated. Th
 
 In summary, both the mission and the research values of **MuraMed** underscore its commitment to being more than just a healthcare technology company. It strives to be a change-maker in the industry, leveraging technology to address crucial gaps in healthcare accessibility and quality. By doing so, MuraMed aims to foster not just business growth but also societal advancement, setting new standards in healthcare, technology, and innovation.
 
----
 
 For further insights into **MuraMed**'s groundbreaking work, one can refer to the comprehensive document: *[MuraMed_Documentation.pdf](./MuraMed_Documentation.pdf)*.
 
+---
+
+
+
+
+
+---
+
+### Technical Installation - Python Environment Specifications
+
+#### Libraries and Versions
+
+The main libraries utilized are the following:
+
+- **Pandas**: Version 2.1.0
+- **NumPy**: Version 1.24.3
+- **Matplotlib**: Version 3.7.2
+- **Seaborn**: Version 0.12.2
+- **Scikit-learn**: Version 1.3.0
+- **TensorFlow**: Version 2.13.0-rc0
+
+### Detailed Specifications
+
+- **Pandas**: The environment utilizes Pandas version **2.1.0**, which provides robust capabilities for data manipulation and analysis.
+  
+- **NumPy**: The version in use is **1.24.3**, essential for a variety of numerical operations. It complements Pandas in data transformation and manipulation.
+
+- **Matplotlib**: The current version is **3.7.2**, offering a wide array of functionalities for data visualization.
+
+- **Seaborn**: Version **0.12.2** is installed, extending Matplotlib's functionalities for more advanced data visualizations.
+
+- **Scikit-learn**: The environment leverages Scikit-learn version **1.3.0**, a comprehensive library for machine learning tasks such as data splitting, model training, and evaluation.
+
+- **TensorFlow**: Version **2.13.0-rc0** forms the backbone for all deep learning tasks, offering a comprehensive and flexible platform for building, training, and deploying machine learning models.
+
+#### Important Notes
+
+##### Important Note 1 - UserWarning
+
+You may receive a UserWarning that indicates that TensorFlow Addons (TFA) has stopped development of new features and is in maintenance mode until May 2024. This means it's advisable to transition to other TensorFlow community libraries for new features or functions that were previously covered by TFA.
+
+For more information see: [GitHub Issue](https://github.com/tensorflow/addons/issues/2807)
+
+##### Important Note 2 - TensorFlow and Installation
+
+The installation of TensorFlow can sometimes be tricky. To install TensorFlow through `pip`, the following commands should be run:
+
+```bash
+pip install tensorflow
+```
+
+To additionally install TensorFlow Addons:
+
+```bash
+pip install tensorflow-addons
+```
+
 While the current analysis will be done on [Jupyter Notebook](http://jupyter.org/) and in [Python 3.10.0](https://www.python.org/downloads/release/python-3100/).
+
+---
+### Contributors
+
+- [x] [Dimitra Diamanti](https://github.com/ddiamanti)
+- [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
+- [x] [Foteini Nefeli Nouskali](https://github.com/FoteiniNefeli)
+- [x] [Eva Ruci](https://github.com/EvaRoutsi)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+
+
+
+
+
+
+
