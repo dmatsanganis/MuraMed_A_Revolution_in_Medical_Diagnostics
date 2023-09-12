@@ -97,9 +97,7 @@ While the current analysis will be done on [Jupyter Notebook](http://jupyter.org
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![TensorFlow Logo](./tensorflow_logo.png)
-
-
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13.0--rc0-orange.svg?logo=tensorflow)](https://tensorflow.org)
 
 
 
