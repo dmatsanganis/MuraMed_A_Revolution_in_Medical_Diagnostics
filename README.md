@@ -97,6 +97,13 @@ While the current analysis will be done on [Jupyter Notebook](http://jupyter.org
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-2.1.0-blue.svg?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-1.24.3-blue.svg?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-blue.svg?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-blue.svg?logo=seaborn)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-1.3.0-blue.svg?logo=scikit-learn)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13.0--rc0-orange.svg?logo=tensorflow)](https://tensorflow.org)
 
 
