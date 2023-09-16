@@ -1,4 +1,9 @@
-You can find the model checkpoints in the following Google Drive folder, organized into two subfolders: one for the Simple CNN model and another for the Advanced CNN model. Each subfolder is labeled with a timestamp indicating when it was created. Inside these subfolders, you'll find the corresponding weight files for each model.
+You can find the model checkpoints in this Google Drive "checkpoints" folder, organized into three subfolders for the following:
 
-Link:
+1. Simple CNN Model: Includes weight files for the Simple CNN model.
+2. Advanced CNN Model: Includes weight files for the Advanced CNN model.
+3. VGG 19 Model: Includes weight files for the VGG 19 model.
+
+Each subfolder is labeled with a timestamp, indicating when it was created. To access and download the model checkpoints, follow the link below:
+
 https://drive.google.com/drive/folders/1b_UcwpEHz97HPT_BtKtE8l0KXQT4Hete?usp=share_link
