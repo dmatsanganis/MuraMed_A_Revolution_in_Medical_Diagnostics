@@ -1,7 +1,5 @@
 # MuraMed: Figures 
 
-## Overview
-
 This subfolder contains various figures related to the MuraMed project. These figures are intended to provide better understanding and visualization of the models and datasets being used. The figures are generated from Jupyter Notebooks and are organized into specific directories for easy navigation.
 
 ## Directory Structure
