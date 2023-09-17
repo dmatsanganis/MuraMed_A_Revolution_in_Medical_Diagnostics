@@ -1,10 +1,45 @@
-# MuraMed: A Revolution in Medical Diagnostics
+## MuraMed: A Revolution in Medical Diagnostics
 
-## Project Overview
+### Project Overview
 
 In the rapidly advancing field of healthcare AI, MuraMed stands as a pioneer in medical diagnostics. We leverage cutting-edge machine learning models to transform the landscape of medical diagnostics, particularly in musculoskeletal radiography. Our project revolves around the creation of MuraMed, an innovative healthcare technology company with a singular mission: to elevate medical diagnostics using artificial intelligence. We focus on addressing the critical need for precise and efficient diagnosis, with a specific emphasis on radiographs, including X-ray images. This initiative holds significant promise across various domains, including medical imaging, medical data analysis, diagnostics, and healthcare delivery. In this report, we present a comprehensive methodology for automating the classification of normal and abnormal X-ray images, with a specific focus on anatomical parts of the hand. We achieve this by employing Convolutional Neural Networks (CNN) in conjunction with the advanced VGG model. The effectiveness of our approach is thoroughly evaluated using the MURA dataset, which comprises musculoskeletal radiographs established by Stanford University. Our assessment covers method proficiency and the presentation of results.
 
-## About us
+### Table of Contents
+1. [Figures](#figures)
+2. [Documentation](#documentation)
+3. [README](#readme)
+4. [Datasets](#datasets)
+5. [Jupyter Notebooks](#jupyter-notebooks)
+6. [Requirements](#requirements)
+7. [Model Weights](#model-weights)
+
+### Figures
+This folder contains Advanced CNN Model Figures generated from Jupyter Notebooks.
+
+
+### Documentation
+MuraMed Documentation.pdf files are available for an in-depth understanding of the project.
+
+### README
+The README.md file offers an overview and provides navigation guidance for this repository.
+
+### Datasets
+The dataset.txt file contains the dataset details used for training and validation of the models.
+
+### Jupyter Notebooks
+This repository contains three types of Jupyter Notebooks:
+- muramed_advanced_cnn.ipynb: Outlines the architecture and training procedures for the advanced CNN model.
+- muramed_simple_cnn.ipynb: Provides the implementation details for the intial baseline simple CNN model.
+- muramed_vgg.ipynb: Focuses on the VGG19 model and its specifics for medical image classification.
+
+### Requirements
+The requirements.txt file lists all the dependencies needed to run the code in this repository.
+
+### Model Weights
+The weights.txt file provides links to access files containing weights for the best epochs of our models.
+
+
+### About us
 
 **MuraMed** is an innovative healthcare technology company that aims to revolutionize medical diagnostics with a focus on radiographs (X-Ray images). In the intricate landscape of today's healthcare, the company addresses the vital need for accurate, efficient, and swift diagnosis. MuraMed's specialization lies in detecting bone abnormalities, and it offers an AI-powered diagnostic system tailored for healthcare professionals. This initiative is particularly significant for radiology, a field often challenged by the timeliness and precision of X-ray image interpretation. A brief description of our **MuraMed's Business Case** follows below.
 
@@ -31,11 +66,11 @@ Similarly, the inherent **Value of MuraMed's Research** cannot be overstated. Th
 
 In summary, both the mission and the research values of **MuraMed** underscore its commitment to being more than just a healthcare technology company. It strives to be a change-maker in the industry, leveraging technology to address crucial gaps in healthcare accessibility and quality. By doing so, MuraMed aims to foster not just business growth but also societal advancement, setting new standards in healthcare, technology, and innovation.
 
-### Business Strategy
+#### Business Strategy
 
 From a business perspective, MuraMed strategically caters to various sectors, including healthcare, education, and the workplace. Our objectives encompass diagnostic support, telemedicine capabilities, workplace injury prevention, and athlete health monitoring. What sets us apart is our commitment to simplicity, model accuracy, and dedicated customer support. We distinguish ourselves from more complex competitors through our adherence to the Blue Ocean Strategy, an approach that prioritizes innovation and differentiation. This strategy guides us toward untapped opportunities in healthcare AI, and we actively seek proactive partnerships and adopt emerging technologies to maintain a leading position in the dynamic healthcare AI landscape.
 
-### Technical Implementations
+#### Technical Implementations
 
 The technical dimension of this report delves into data architecture, algorithm development, and quality assurance, offering a roadmap for effective model deployment. Our commitment to refining model performance is evident in techniques such as data augmentation, metric selection, and the use of training callbacks. Within this technical landscape, we employ three machine learning models: Simple CNN, Advanced CNN, and VGG-19, each with distinct performance characteristics.
 
@@ -45,7 +80,7 @@ The technical dimension of this report delves into data architecture, algorithm 
 
 - **VGG-19:** Our top-performing model achieves an accuracy of 0.80200 and a Cohen's Kappa score of 0.86291, despite a higher test loss of 0.91401, solidifying its position as the most effective among the three.
 
-## Conclusion
+### Conclusion
 
 In summary, this report underscores MuraMed's commitment to revolutionize medical diagnostics through AI-driven solutions. We prioritize clinical excellence, technological progress, and dedicated research and innovation. MuraMed's comprehensive approach positions us as a driving force in the healthcare AI landscape, ushering in positive change and elevating the standards of medical diagnostics.
 
@@ -109,6 +144,16 @@ pip install tensorflow-addons
 ```
 
 The current analysis will be done on [Jupyter Notebook](http://jupyter.org/) and in [Python 3.10](https://www.python.org/downloads/release/python-3100/).
+
+
+
+
+
+
+
+
+
+
 
 ---
 ### Contributors
