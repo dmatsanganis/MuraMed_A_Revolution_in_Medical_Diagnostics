@@ -52,10 +52,6 @@ In summary, this report underscores MuraMed's commitment to revolutionize medica
 
 For further insights into **MuraMed**'s groundbreaking work, one can refer to the comprehensive document: *[MuraMed_Documentation.pdf](./MuraMed_Documentation.pdf)*.
 
----
-
-
-
 
 
 ---
@@ -110,7 +106,7 @@ pip install tensorflow-addons
 ```
 
 The current analysis will be done on [Jupyter Notebook](http://jupyter.org/) and in [Python 3.10](https://www.python.org/downloads/release/python-3100/).
-
+---
 ### Deliverables
 1. [Figures](#figures)
 2. [Documentation](#documentation)
