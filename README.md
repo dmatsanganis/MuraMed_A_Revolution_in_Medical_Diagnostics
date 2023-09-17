@@ -108,7 +108,7 @@ To additionally install TensorFlow Addons:
 pip install tensorflow-addons
 ```
 
-While the current analysis will be done on [Jupyter Notebook](http://jupyter.org/) and in [Python 3.10](https://www.python.org/downloads/release/python-3100/).
+The current analysis will be done on [Jupyter Notebook](http://jupyter.org/) and in [Python 3.10](https://www.python.org/downloads/release/python-3100/).
 
 ---
 ### Contributors
