@@ -4,40 +4,6 @@
 
 In the rapidly advancing field of healthcare AI, MuraMed stands as a pioneer in medical diagnostics. We leverage cutting-edge machine learning models to transform the landscape of medical diagnostics, particularly in musculoskeletal radiography. Our project revolves around the creation of MuraMed, an innovative healthcare technology company with a singular mission: to elevate medical diagnostics using artificial intelligence. We focus on addressing the critical need for precise and efficient diagnosis, with a specific emphasis on radiographs, including X-ray images. This initiative holds significant promise across various domains, including medical imaging, medical data analysis, diagnostics, and healthcare delivery. In this report, we present a comprehensive methodology for automating the classification of normal and abnormal X-ray images, with a specific focus on anatomical parts of the hand. We achieve this by employing Convolutional Neural Networks (CNN) in conjunction with the advanced VGG model. The effectiveness of our approach is thoroughly evaluated using the MURA dataset, which comprises musculoskeletal radiographs established by Stanford University. Our assessment covers method proficiency and the presentation of results.
 
-### Table of Contents
-1. [Figures](#figures)
-2. [Documentation](#documentation)
-3. [README](#readme)
-4. [Datasets](#datasets)
-5. [Jupyter Notebooks](#jupyter-notebooks)
-6. [Requirements](#requirements)
-7. [Model Weights](#model-weights)
-
-### Figures
-This folder contains Advanced CNN Model Figures generated from Jupyter Notebooks.
-
-
-### Documentation
-MuraMed Documentation.pdf files are available for an in-depth understanding of the project.
-
-### README
-The README.md file offers an overview and provides navigation guidance for this repository.
-
-### Datasets
-The dataset.txt file contains the dataset details used for training and validation of the models.
-
-### Jupyter Notebooks
-This repository contains three types of Jupyter Notebooks:
-- muramed_advanced_cnn.ipynb: Outlines the architecture and training procedures for the advanced CNN model.
-- muramed_simple_cnn.ipynb: Provides the implementation details for the intial baseline simple CNN model.
-- muramed_vgg.ipynb: Focuses on the VGG19 model and its specifics for medical image classification.
-
-### Requirements
-The requirements.txt file lists all the dependencies needed to run the code in this repository.
-
-### Model Weights
-The weights.txt file provides links to access files containing weights for the best epochs of our models.
-
 
 ### About us
 
@@ -145,7 +111,39 @@ pip install tensorflow-addons
 
 The current analysis will be done on [Jupyter Notebook](http://jupyter.org/) and in [Python 3.10](https://www.python.org/downloads/release/python-3100/).
 
+### Deliverables
+1. [Figures](#figures)
+2. [Documentation](#documentation)
+3. [README](#readme)
+4. [Datasets](#datasets)
+5. [Jupyter Notebooks](#jupyter-notebooks)
+6. [Requirements](#requirements)
+7. [Model Weights](#model-weights)
 
+### Figures
+This folder contains Figures generated from Jupyter Notebooks.
+
+
+### Documentation
+MuraMed Documentation.pdf files are available for an in-depth understanding of the project.
+
+### README
+The README.md file offers an overview and provides navigation guidance for this repository.
+
+### Datasets
+The dataset.txt file contains the dataset details used for training and validation of the models.
+
+### Jupyter Notebooks
+This repository contains three types of Jupyter Notebooks:
+- muramed_advanced_cnn.ipynb: Outlines the architecture and training procedures for the advanced CNN model.
+- muramed_simple_cnn.ipynb: Provides the implementation details for the intial baseline simple CNN model.
+- muramed_vgg.ipynb: Focuses on the VGG19 model and its specifics for medical image classification.
+
+### Requirements
+The requirements.txt file lists all the dependencies needed to run the code in this repository.
+
+### Model Weights
+The weights.txt file provides links to access files containing weights for the best epochs of our models.
 
 
 
