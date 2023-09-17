@@ -1,8 +1,10 @@
-## MuraMed: A Revolution in Medical Diagnostics
+# MuraMed: A Revolution in Medical Diagnostics
 
 ## Project Overview
 
 In the rapidly advancing field of healthcare AI, MuraMed stands as a pioneer in medical diagnostics. We leverage cutting-edge machine learning models to transform the landscape of medical diagnostics, particularly in musculoskeletal radiography. Our project revolves around the creation of MuraMed, an innovative healthcare technology company with a singular mission: to elevate medical diagnostics using artificial intelligence. We focus on addressing the critical need for precise and efficient diagnosis, with a specific emphasis on radiographs, including X-ray images. This initiative holds significant promise across various domains, including medical imaging, medical data analysis, diagnostics, and healthcare delivery. In this report, we present a comprehensive methodology for automating the classification of normal and abnormal X-ray images, with a specific focus on anatomical parts of the hand. We achieve this by employing Convolutional Neural Networks (CNN) in conjunction with the advanced VGG model. The effectiveness of our approach is thoroughly evaluated using the MURA dataset, which comprises musculoskeletal radiographs established by Stanford University. Our assessment covers method proficiency and the presentation of results.
+
+## About us
 
 **MuraMed** is an innovative healthcare technology company that aims to revolutionize medical diagnostics with a focus on radiographs (X-Ray images). In the intricate landscape of today's healthcare, the company addresses the vital need for accurate, efficient, and swift diagnosis. MuraMed's specialization lies in detecting bone abnormalities, and it offers an AI-powered diagnostic system tailored for healthcare professionals. This initiative is particularly significant for radiology, a field often challenged by the timeliness and precision of X-ray image interpretation. A brief description of our **MuraMed's Business Case** follows below.
 
@@ -28,6 +30,10 @@ When it comes to **MuraMed**'s long-term goals, the company's **Mission and Visi
 Similarly, the inherent **Value of MuraMed's Research** cannot be overstated. The company's research initiatives are designed to make substantial contributions across multiple domains, including healthcare, technology, business, and innovation. This multi-disciplinary approach not only highlights the company's commitment to improving patient care but also signals its intent to push the boundaries of existing technology. **MuraMed** is invested in creating a harmonious blend of technology and healthcare, using AI as a tool to bridge gaps and address inefficiencies in the current medical systems. Consequently, the company's research serves as a catalyst for business growth, as it opens up new opportunities for expansion and partnerships. 
 
 In summary, both the mission and the research values of **MuraMed** underscore its commitment to being more than just a healthcare technology company. It strives to be a change-maker in the industry, leveraging technology to address crucial gaps in healthcare accessibility and quality. By doing so, MuraMed aims to foster not just business growth but also societal advancement, setting new standards in healthcare, technology, and innovation.
+
+### Business Strategy
+
+From a business perspective, MuraMed strategically caters to various sectors, including healthcare, education, and the workplace. Our objectives encompass diagnostic support, telemedicine capabilities, workplace injury prevention, and athlete health monitoring. What sets us apart is our commitment to simplicity, model accuracy, and dedicated customer support. We distinguish ourselves from more complex competitors through our adherence to the Blue Ocean Strategy, an approach that prioritizes innovation and differentiation. This strategy guides us toward untapped opportunities in healthcare AI, and we actively seek proactive partnerships and adopt emerging technologies to maintain a leading position in the dynamic healthcare AI landscape.
 
 ### Technical Implementations
 
