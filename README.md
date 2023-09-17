@@ -4,6 +4,7 @@
 
 In the rapidly advancing field of healthcare AI, MuraMed stands as a pioneer in medical diagnostics. We leverage cutting-edge machine learning models to transform the landscape of medical diagnostics, particularly in musculoskeletal radiography. Our project revolves around the creation of MuraMed, an innovative healthcare technology company with a singular mission: to elevate medical diagnostics using artificial intelligence. We focus on addressing the critical need for precise and efficient diagnosis, with a specific emphasis on radiographs, including X-ray images. This initiative holds significant promise across various domains, including medical imaging, medical data analysis, diagnostics, and healthcare delivery. In this report, we present a comprehensive methodology for automating the classification of normal and abnormal X-ray images, with a specific focus on anatomical parts of the hand. We achieve this by employing Convolutional Neural Networks (CNN) in conjunction with the advanced VGG model. The effectiveness of our approach is thoroughly evaluated using the MURA dataset, which comprises musculoskeletal radiographs established by Stanford University. Our assessment covers method proficiency and the presentation of results.
 
+---
 
 ### About us
 
